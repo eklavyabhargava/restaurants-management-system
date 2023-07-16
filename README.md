@@ -1,5 +1,5 @@
 
-# Resturant Booking System
+# Restaurant Booking System
 
 Backend code for resturant booking application.
 
@@ -101,7 +101,7 @@ https://www.postgresql.org/download/
 #### Go to the project directory
 
 ```bash
-  cd resturant-management-system
+  cd restaurants-management-system
 ```
 
 #### Install dependencies
